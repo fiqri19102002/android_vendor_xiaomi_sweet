@@ -736,6 +736,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libsdmextension \
     libsdsprpc \
+    libsensorcal \
     libsensorslog \
     libsnpe_adsp \
     libsnpe_dsp_domains \
@@ -749,6 +750,7 @@ PRODUCT_PACKAGES += \
     libsnsdiaglog \
     libsoc_helper \
     libssc \
+    libssc_default_listener \
     libssccalapi \
     libssd \
     libswregistrationalgo \
