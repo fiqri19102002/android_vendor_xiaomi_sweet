@@ -377,6 +377,7 @@ PRODUCT_PACKAGES += \
     libsns_low_lat_stream_skel \
     libasphere \
     libshoebox \
+    libxlog \
     com.qti.sensor.sweet_gc02m1 \
     com.qti.sensor.sweet_imx355 \
     com.qti.sensor.sweet_imx471_front \
